@@ -12,10 +12,10 @@ print("##################################")
 print("                 By ElgafasTrading")
 print("")
 
-tick = ""
+tick = "bomeusdt"
 entryPrice = 0.0
 positionAMT = 0.0
-stopLoss = 0
+stopLoss = 10
 
 tick_size = 0.0
 
